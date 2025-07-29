@@ -1,5 +1,15 @@
 # Instagram-Logo
  Creating an Amazing Looking Instagram Logo Using Python Turtle Graphics
  Just Copy the code in your computer and enjoy :)
- Follow me on Instagram :- https://www.instagram.com/mehtabcodesofficial
- Subscribe my youtube :- https://www.youtube.com/@mehtabcodes
+
+
+## Acknowledgements
+
+ - [Subscribe Me on Youtube❤️](https://www.youtube.com/@mehtabcodes)
+ - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodes/)
+ - [More Amazing Repositories](https://github.com/mehtabcodes7)
+
+
+## Technologies Used In This Repository
+HTML5,
+CSS3
